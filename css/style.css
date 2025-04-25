@@ -24,6 +24,7 @@ html {
     scroll-behavior: smooth;
     position: relative;
     overflow-x: hidden;
+    height: webkit-fill-available;
 }
 
 .nav {
